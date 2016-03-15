@@ -2,6 +2,7 @@ name: Paper City Pulse
 favicon: null
 layout_spectrum: 0.7712485601659864
 typography_spectrum: 0.6976774521172047
+title: Paper City Pulse
 cta:
   domain: null
   bucket: null
